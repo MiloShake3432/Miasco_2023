@@ -1,0 +1,73 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-kameron: Kameron;
+  --font-zen-tokyo-zoo: "Zen Tokyo Zoo";
+  --font-itim: Itim;
+  --font-marcellus: Marcellus;
+  --font-jost: Jost;
+  --font-odor-mean-chey: "Odor Mean Chey";
+  --font-aleo: Aleo;
+  --font-annie-use-your-telescope: "Annie Use Your Telescope";
+  --font-amatica-sc: "Amatica SC";
+  --font-damion: Damion;
+  --font-aref-ruqaa: "Aref Ruqaa";
+  --font-inherit: inherit;
+  --font-arimo: Arimo;
+  --font-arsenal: Arsenal;
+  --font-frijole: Frijole;
+  --font-dm-sans: "DM Sans";
+  --font-archivo-black: "Archivo Black";
+  --font-corinthia: Corinthia;
+  --font-kaushan-script: "Kaushan Script";
+  --font-londrina-shadow: "Londrina Shadow";
+  --font-kavoon: Kavoon;
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-77xl: 96px;
+  --font-size-17xl: 36px;
+  --font-size-5xl: 24px;
+  --font-size-13xl: 32px;
+  --font-size-45xl: 64px;
+  --font-size-xl: 20px;
+  --font-size-29xl: 48px;
+  --font-size-21xl: 40px;
+  --font-size-201xl: 220px;
+  --font-size-121xl: 140px;
+  --font-size-61xl: 80px;
+  --font-size-41xl: 60px;
+  --font-size-281xl: 300px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: #061a32;
+  --color-gray-200: #071420;
+  --color-gray-600: rgba(255, 255, 255, 0.28);
+  --color-gray-700: rgba(0, 0, 0, 0.8);
+  --color-gray-800: rgba(0, 0, 0, 0.9);
+  --color-gray-300: rgba(6, 26, 50, 0.8);
+  --color-gray-900: rgba(255, 255, 255, 0.68);
+  --color-gray-400: rgba(255, 255, 255, 0);
+  --color-gray-500: rgba(255, 255, 255, 0.62);
+  --color-black: #000;
+  --color-lightslategray: rgba(135, 170, 186, 0.8);
+  --color-steelblue-100: rgba(32, 80, 137, 0.2);
+  --color-steelblue-200: rgba(32, 80, 137, 0.8);
+  --color-gainsboro: #d9d9d9;
+  --color-darkslategray: rgba(12, 47, 80, 0.6);
+  --color-silver: #d7c2b6;
+  --color-tan: rgba(186, 148, 101, 0.65);
+  --color-cornflowerblue: #007ed9;
+
+  /* Border radiuses */
+  --br-181xl: 200px;
+  --br-81xl: 100px;
+  --br-75xl: 94px;
+  --br-17xl: 36px;
+  --br-51xl: 70px;
+}

@@ -1,0 +1,264 @@
+.rectangle-footer5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-200);
+  width: 1440px;
+  height: 180.8px;
+}
+.powered-by-miasco5 {
+  position: absolute;
+  top: 138px;
+  left: 567.8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 303.8px;
+  height: 22.5px;
+}
+.instagram-icon6 {
+  position: absolute;
+  top: 93.7px;
+  left: 735.8px;
+  width: 26.3px;
+  height: 26.3px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.border-facebook6,
+.border-instagram6 {
+  position: absolute;
+  top: 88.5px;
+  border-radius: 50%;
+  background-color: var(--color-gray-400);
+  border: 2px solid var(--color-white);
+  box-sizing: border-box;
+  width: 37.5px;
+  height: 37.5px;
+}
+.border-instagram6 {
+  left: 729.8px;
+  cursor: pointer;
+}
+.border-facebook6 {
+  left: 672px;
+}
+.facebook-icon6 {
+  position: absolute;
+  top: 93.7px;
+  left: 678px;
+  width: 26.3px;
+  height: 26.3px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.rectangle-to-the-top8 {
+  position: absolute;
+  top: 31.5px;
+  left: 652.5px;
+  background-color: var(--color-gainsboro);
+  width: 135px;
+  height: 45px;
+}
+.to-the-top5 {
+  position: absolute;
+  top: 43.5px;
+  left: 670.5px;
+  font-family: var(--font-arimo);
+  color: var(--color-gray-200);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 117px;
+  height: 21px;
+  cursor: pointer;
+}
+.footer5,
+.line-arrow-up-icon5 {
+  position: absolute;
+  top: 44.3px;
+  left: 661.5px;
+  width: 18px;
+  height: 18px;
+}
+.footer5 {
+  top: 4040.8px;
+  left: -25px;
+  width: 1440px;
+  height: 180.8px;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-arsenal);
+}
+.picture-2-icon1,
+.poem-icon {
+  position: absolute;
+  top: 2888.8px;
+  left: 0;
+  width: 1440px;
+  height: 1152px;
+  object-fit: cover;
+}
+.poem-icon {
+  top: 852px;
+  height: 2036.8px;
+}
+.blur-1,
+.blur-2,
+.rectangle3 {
+  position: absolute;
+  top: 2870.8px;
+  left: 0;
+  background-color: var(--color-silver);
+  filter: blur(10px);
+  width: 1440px;
+  height: 60px;
+}
+.blur-1,
+.rectangle3 {
+  top: 810px;
+}
+.rectangle3 {
+  top: 357px;
+  background-color: var(--color-tan);
+  height: 187.5px;
+}
+.flex-1,
+.flex-2,
+.flex-3 {
+  position: absolute;
+  letter-spacing: 0.28em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1440px;
+  opacity: 0.6;
+}
+.flex-3 {
+  top: 856px;
+  left: 1410px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.flex-1,
+.flex-2 {
+  top: 321px;
+  left: 18px;
+}
+.flex-1 {
+  top: 334px;
+  left: 1410px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.paper-1-icon,
+.paper-2-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 900px;
+  height: 728.6px;
+  object-fit: cover;
+}
+.paper-1-icon {
+  top: 14.6px;
+  left: 56.3px;
+  width: 787.5px;
+  height: 637.5px;
+  mix-blend-mode: linear-burn;
+}
+.picture-icon,
+.tape-1-icon1,
+.tape-2-icon1 {
+  position: absolute;
+  top: 108.6px;
+  left: 150.8px;
+  width: 562.5px;
+  height: 450px;
+  object-fit: cover;
+}
+.tape-1-icon1,
+.tape-2-icon1 {
+  top: 520.9px;
+  left: 96.8px;
+  width: 270px;
+  height: 52.1px;
+}
+.tape-1-icon1 {
+  top: 70.9px;
+  left: 582.8px;
+  width: 216.5px;
+  height: 150.1px;
+}
+.header-box5,
+.picture-1 {
+  position: absolute;
+  top: 68.3px;
+  left: 270px;
+  width: 900px;
+  height: 728.6px;
+}
+.header-box5 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-200);
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.25);
+  width: 1440px;
+  height: 60px;
+}
+.blogs6,
+.flex6,
+.home7 {
+  position: fixed;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 0px;
+  height: 60px;
+  cursor: pointer;
+}
+.flex6 {
+  right: 80px;
+}
+.blogs6,
+.home7 {
+  left: 1108px;
+}
+.home7 {
+  left: 940px;
+}
+.header5,
+.miasco5 {
+  position: fixed;
+  left: 0;
+}
+.miasco5 {
+  top: 11px;
+  font-size: var(--font-size-17xl);
+  letter-spacing: 0.08em;
+  font-family: var(--font-zen-tokyo-zoo);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 224.3px;
+}
+.header5 {
+  top: 0;
+  width: 1440px;
+  height: 60px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-itim);
+}
+.flex5 {
+  position: relative;
+  background-color: var(--color-silver);
+  width: 100%;
+  height: 4222px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-201xl);
+  color: var(--color-black);
+  font-family: var(--font-londrina-shadow);
+}
